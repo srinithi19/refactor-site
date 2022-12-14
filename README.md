@@ -1,4 +1,4 @@
-# Refactor-Site
+# Code-Refactor
 ## Description:
 The purpose of this project is to refactor the existing website by adding semantic HTML elements to meet accessibility standards and to consolidate and organize the css selector/properties.
 ## Technology Used 

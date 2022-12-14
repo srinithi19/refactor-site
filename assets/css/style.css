@@ -11,7 +11,7 @@ body {
 }
 
 /* to all class named header */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +19,18 @@ body {
 }
 
 /* applies to all h1 inside header */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* to .seo under h1 which is under header */
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* to all nav tags under header */
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,12 +39,12 @@ body {
 }
 
 /* to all ul tag under nav which is under header */
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* to all li under ul tag under nav which is under header */
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -144,13 +144,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
